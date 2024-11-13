@@ -1,0 +1,72 @@
+{
+	"id": "d39b33ac-bba1-ef11-88cf-000d3ab39ac5",
+	"createdAt": "2024-11-13T12:34:50.173Z",
+	"createdBy": "emmanuella.ndukwe@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/ellacenz/TestDeployment",
+		"branch": "master"
+	},
+	"name": "testglobalstyles",
+	"description": null,
+	"ver": "24.11.13.1239",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [
+		{
+			"id": "4c8f6565-7270-ef11-bdfd-000d3ad9cd61",
+			"name": "test",
+			"description": null
+		}
+	],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [
+		{
+			"id": "1ed4e569-2071-ef11-bdfd-000d3ab842fa",
+			"NAME": "test"
+		}
+	],
+	"category": [],
+	"tilegroup_layout": [
+		{
+			"id": "baaae8ce-f99c-ef11-88cf-000d3ab39ac5",
+			"NAME": "saddas"
+		}
+	],
+	"launchpad": [],
+	"launchpad_layout": [
+		{
+			"id": "76b48162-a597-ef11-8473-000d3ab3114c",
+			"NAME": "test3908",
+			"DESCR": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": []
+}
